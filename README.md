@@ -1,1 +1,0 @@
-# Oil-Shop-Management-App
